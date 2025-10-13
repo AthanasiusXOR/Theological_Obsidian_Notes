@@ -1,3 +1,5 @@
+## Books
+
 Allison, Gregg. Sojourners and Strangers: The Doctrine of the Church. Wheaton, IL: Crossway: 2012.
 
 Athanasius of Alexandria. On the Incarnation. ~373. Verbi Dei. London: A.R. Mowbray and Company: 1970.
@@ -51,3 +53,7 @@ Vos, Geerhardus. Biblical Theology. Grand Rapids, MI: NA, 1948.
 Waters, Guy Prentiss. For the Mouth of the Lord has Spoken: The Doctrine of Scripture. Glasgow, UK: Bell and Bain, 2001.
 
 Wellum, Stephen. Systematic Theology Volume I. Brentwood, TN: B&H Academic Publishing, 2024.
+
+## Sermons
+
+Breffle, Josh. *The Hidden Hand of God: Esther 2:19-3:15*. Sermon, October 12, 2025. Windsor Community Church
