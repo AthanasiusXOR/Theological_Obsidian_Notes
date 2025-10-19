@@ -79,69 +79,40 @@ Chapter I: Preliminary Considerations
 [Chapter 5: The Attributes of God](onenote:Theology%20Proper\5%20The%20Properties%20of%20God.one#section-id={DEF58F85-167D-694E-ACA4-771A4561A9B2}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - [5.01  The Properties (or Attributes) of God](onenote:Theology%20Proper\5%20The%20Properties%20of%20God.one#5.01%20The%20Properties%20\(or%20Attributes\)%20of%20God&section-id={DEF58F85-167D-694E-ACA4-771A4561A9B2}&page-id={63A253D2-E038-3D42-BDB0-6F03651B4629}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - What is an Attribute | Evaluation of the Term?
-
 - Method of Determining the Attribute of God
-
 - Divine Simplicity
-
 - Transcendence and Immanence
-
 - Metaphysical Attributes of our Triune Covenant Lord (Incommunicable Attributes)
-
 - Aseity
-
 - Immutability
-
 - Impassability
-
 - Eternal | Infinity
-
 - Omnipresent
-
 - Omnipotent
-
 - Epistemological Attributes of Our Covenant Lord (Communicable)
-
 - Omniscience
-
 - Wisdom of God
-
 - Spirituality
-
 - Truthfulness | Faithfulness
-
 - Moral Attributes of Our Triune Covenant Lord
 
 [Chapter 6: The Triune God](onenote:Theology%20Proper\6%20The%20Triune%20God.one#section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - [6.01 The Doctrine of the Trinity in History](onenote:Theology%20Proper\6%20The%20Triune%20God.one#6.01%20The%20Doctrine%20of%20the%20Trinity%20in%20History&section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&page-id={CDB289E3-A885-E649-B9DE-E1B9E1D79D90}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - Pre-Reformation Positions
-
 - Post-Reformation Positions
 
 - [6.02 God as Trinity in Unity](onenote:Theology%20Proper\6%20The%20Triune%20God.one#6.02%20God%20as%20Trinity%20in%20Unity&section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&page-id={7A500E6D-03EE-984E-BD95-1874B129AC0F}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - Three Persons Considered Separately
-
 - The Father
-
 - The Son
-
 - The Spirit
-
 - The Triune God of Glory
-
 - Definition of Trinity
-
 - Biblical Evidence for the Trinity
-
 - Old Testament
-
 - New Testament
-
 - Trinitarian Cooperation in Inspiration
 
 [Chapter 7: The Divine Decrees of God](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
@@ -149,41 +120,27 @@ Chapter I: Preliminary Considerations
 - [7.01 The Divine Decrees in General](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.01%20The%20Divine%20Decree%20of%20God%20in%20General&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={4A1BA6CB-BEF6-944F-9D76-67C2A69FFC7E}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - [7.02 Predestination](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.02%20Predestination&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={5155CE03-B5DC-8446-B11C-BE50A97A9887}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - The Doctrine of Predestination in History
-
 - The Parts of Predestination
-
 - Election
-
 - Reprobation
-
 - Supra- and Infralapsarianism
 
 - [7.03 Creation](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.03%20Creation&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={AAC96F6E-2991-8848-B895-CFF01652ADD4}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - The Doctrine of Creation in History
-
 - The Idea of Creation
-
 - The Doctrine of Angels in History
-
 - The Nature of Angels
-
 - Creation of the Material World
-
 - The Scriptural Account of Creation
-
 - Doctrine of Creation versus Evolution
 
 - [7.04 Providence](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.04%20Providence&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={54E1CECB-67DE-C64B-9BEF-D50A774D93D6}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - Providence in General
-
 - Preservation
-
 - Concurrence
-
 - Government
 
 - [7.05 Miracles](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.05%20Miracles&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={D3156DF7-1F90-074D-8ABD-1ABC7F0C110D}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
@@ -193,29 +150,19 @@ Chapter I: Preliminary Considerations
 [Chapter 8: Theological Anthropology](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - [8.01 The Origin of Man](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#8.01%20The%20Origin%20of%20Man&section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&page-id={4DDBB795-C99D-6549-84D2-FCF44E4EC15A}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - The Doctrine of Man in Dogmatics
-
 - The Scriptural Account of the Origin of Man
-
 - The Evolutionary Theory of Man's Origin
-
 - The Unity of Humanity
 
 - [8.02 The Nature of Man](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#8.02%20The%20Nature%20of%20Man&section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&page-id={781ADB90-99B3-4C45-9225-43DF7CC7AECE}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - The Elements of Human Nature | Trichotomy versus Dichotomy
-
 - The Origin of the Soul in the Individual
 
 - [8.03 Imago Dei](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#8.03%20Imago%20Dei%20\(The%20Image%20of%20God\)&section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&page-id={AB5990C6-5F36-3B46-9367-43FCA283F225}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
 - Historical View of the Image of God in Man
-
 - Scriptural Data
-
 - Man as the Image of God
-
 - The Original Condition of Man
 
 [Chapter 9: The Doctrine of Sin (Harmatology) within Theological Anthropology](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\9%20The%20Doctrine%20of%20Sin%20within%20Theological%20Anthropology.one#section-id={B1D683EC-FCDC-FA47-BAD3-A09E83C9E4F2}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
