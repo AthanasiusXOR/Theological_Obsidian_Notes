@@ -1,35 +1,28 @@
-Section I: Prolegomena | Introduction to Theology
+- Section I: Prolegomena | Introduction to Theology
 - Chapter I: Preliminary Considerations
-- [[1.01 Theology]]
-- [[1.02 Systematic Theology]]
-- [[1.03 Science and Religion]]
-- [[1.04 Task, Method, and Distribution of Dogmatics]]
-
-[Section I: Prolegomena | Introduction to Theology](onenote:Prolegomena\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-[Chapter 1: Preliminary Considerations](onenote:Prolegomena\1%20Preliminary%20Considerations.one#section-id={ED0BC754-2981-574A-8444-C3E271C717AD}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- [1.01 Theology](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/Prolegomena/1%20Preliminary%20Considerations.one#1.01%20Theology&section-id={ED0BC754-2981-574A-8444-C3E271C717AD}&page-id={EB187611-8D45-F14D-9A10-47BA3864EEC3}&end)
-	- The History of Dogmatics
-	- What is theology?
-	- The Nature of Dogma
-	- Dogma Identified
-	- The Formal Characteristics of Dogma
-	- The Necessity of Dogma
-- [1.02 Systematic Theology](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/Prolegomena/1%20Preliminary%20Considerations.one#1.02%20Systematic%20Theology&section-id={ED0BC754-2981-574A-8444-C3E271C717AD}&page-id={301FB336-BA88-8740-9088-7E11F848E07B}&end)
-	- The Idea of Dogmatic Theology
-	- The Relationship of Dogma to Dogmatics
-	- The Object of Dogmatic Theology (Its Definition)
-	- The Division of Dogmatic Theology
-- [1.03 Science and Religion](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/Prolegomena/1%20Preliminary%20Considerations.one#1.03%20Science%20and%20Religion&section-id={ED0BC754-2981-574A-8444-C3E271C717AD}&page-id={BAA654F5-F2D9-A947-B392-34CDAB83F736}&end)
-- [1.04 Task, Method, and Distribution of Dogmatics](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/Prolegomena/1%20Preliminary%20Considerations.one#1.04%20Task,%20Method,%20and%20Distribution%20of%20Dogmatics&section-id={ED0BC754-2981-574A-8444-C3E271C717AD}&page-id={25C5DF79-E9F1-0B41-BF35-565B1E6FCA10}&end)
-	- Tasks of Dogmatics
-	- The Method of Dogmatics
-	- Distribution of Dogmatics
-	- How the Material is Secured and Treated
-	- Relations to Dogmatics
-[Chapter 2: Doctrine of Scripture](onenote:Prolegomena\2%20The%20Doctrine%20of%20Scripture.one#section-id={C315ECD8-D624-A640-B0B2-4D8ACA0EFF31}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- [2.01 Principia in General](onenote:Prolegomena\2%20The%20Doctrine%20of%20Scripture.one#2.01%20Principia%20in%20General&section-id={C315ECD8-D624-A640-B0B2-4D8ACA0EFF31}&page-id={B52476A6-694E-C84D-832C-66069340F2C8}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-	- The Triune Covenant Lord: Theological Overview
-- [2.02 The Principium Cognoscendi Externum (Revelation)](onenote:Prolegomena\2%20The%20Doctrine%20of%20Scripture.one#2.02%20The%20Principium%20Cognoscendi%20Externum%20\(Revelation\)&section-id={C315ECD8-D624-A640-B0B2-4D8ACA0EFF31}&page-id={6F403E49-F810-FE47-B22A-C5760FDC4F97}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
+	- [[1.01 Theology]]
+		- The History of Dogmatics
+		- What is theology?
+		- The Nature of Dogma
+		- Dogma Identified
+		- The Formal Characteristics of Dogma
+		- The Necessity of Dogma
+	- [[1.02 Systematic Theology]]
+		- The Idea of Dogmatic Theology
+		- The Relationship of Dogma to Dogmatics
+		- The Object of Dogmatic Theology (Its Definition)
+		- The Division of Dogmatic Theology
+	- [[1.03 Science and Religion]]
+	- [[1.04 Task, Method, and Distribution of Dogmatics]]
+		- Tasks of Dogmatics
+		- The Method of Dogmatics
+		- Distribution of Dogmatics
+		- How the Material is Secured and Treated
+		- Relations to Dogmatics
+- Chapter II: Doctrine of Scripture
+	- [[2.01 Principia in General]]
+		- The Triune Covenant Lord: Theological Overview
+	- [[2.0]]
 	- Concept of Revelation
 	- General Revelation
 	- Special Revelation
@@ -350,10 +343,10 @@ Section I: Prolegomena | Introduction to Theology
 	- The Doctrine of Sanctification in History
 
 	- Chapter XVI: Perseverance of the Saints
-- [[16.01 Perseverance of the Saints]]
-	- The Doctrine of the Perseverance of the Saints in History
-	- Statement of the Doctrine of Perseverance
-	- Proof for the Doctrine of Perseverance
+		- [[16.01 Perseverance of the Saints]]
+			- The Doctrine of the Perseverance of the Saints in History
+			- Statement of the Doctrine of Perseverance
+			- Proof for the Doctrine of Perseverance
 
 Section VI: The Doctrine of the Church
 	- Chapter VXII: The Doctrine of the Church
