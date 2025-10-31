@@ -1,5 +1,5 @@
 Section I: Prolegomena | Introduction to Theology
-Chapter I: Preliminary Considerations
+- Chapter I: Preliminary Considerations
 - [[1.01 Theology]]
 - [[1.02 Systematic Theology]]
 - [[1.03 Science and Religion]]
@@ -349,7 +349,7 @@ Chapter I: Preliminary Considerations
 	- The Characteristics of Sanctification
 	- The Doctrine of Sanctification in History
 
-Chapter XVI: Perseverance of the Saints
+	- Chapter XVI: Perseverance of the Saints
 - [[16.01 Perseverance of the Saints]]
 	- The Doctrine of the Perseverance of the Saints in History
 	- Statement of the Doctrine of Perseverance
@@ -357,22 +357,22 @@ Chapter XVI: Perseverance of the Saints
 
 Section VI: The Doctrine of the Church
 	- Chapter VXII: The Doctrine of the Church
-	- [[17.01 The Church]]
-		- Scriptural Names of the Church and the Doctrine of the Church in History
-		- Scriptural Names for the Church
-		- The Doctrine of the Church in History
-		- The Nature of the Church
-		- The Essence of the Church
-		- The Church and the Kingdom of God
-		- Church in the Different Dispensations
-		- The Attributes of the Church
-		- The Marks of the Church
-	- [[17.02 The Government of the Church]]
-		- Different Theories Respecting the Government of the Church
-		- The Officers of the Church
-	- [[17.03 The Power of the Church]]
-		- The Source of Church Power
-		- The Nature of this Power
+		- [[17.01 The Church]]
+			- Scriptural Names of the Church and the Doctrine of the Church in History
+			- Scriptural Names for the Church
+			- The Doctrine of the Church in History
+			- The Nature of the Church
+			- The Essence of the Church
+			- The Church and the Kingdom of God
+			- Church in the Different Dispensations
+			- The Attributes of the Church
+			- The Marks of the Church
+		- [[17.02 The Government of the Church]]
+			- Different Theories Respecting the Government of the Church
+			- The Officers of the Church
+		- [[17.03 The Power of the Church]]
+			- The Source of Church Power
+			- The Nature of this Power
 	- Chapter XVIII: The Means of Grace
 		- [[18.01 The Means of Grace]]
 			- The Idea of the Means of Grace
@@ -395,59 +395,35 @@ Section VI: The Doctrine of the Church
 			- The Institute of the Lord's Supper
 			- The Lord's Supper as a Means of Grace
 Section VII: The Doctrine of Last Things
+		- Chapter XIX
 		-[[19.01 Eschatology]]
 			- Introductory Eschatology
 			- Physical Death
 			- The Nature of Physical Death
 			- The Connection of Sin and Death
 			- The Immortality of the Soul
-		-[[The ]]
-- [19.02 The Intermediate State](onenote:VII.%20The%20Doctrine%20of%20Last%20Things\19%20Eschatology.one#19.02%20The%20Intermediate%20State&section-id={1FEF306D-E38A-4C43-B2D5-73D97E06BDB5}&page-id={7C784D31-1728-7244-B36F-72EB5B6E19C2}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Scriptural View of the Intermediate State
-
-- The Doctrine of the Intermediate State in History
-
-[Chapter 20: General Eschatology](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VII.%20The%20Doctrine%20of%20Last%20Things/20%20The%20Millennial%20Views.one#section-id={028DE4D1-0FC7-7A4C-8DDE-6E9559A0FD38}&end)
-
-- [20.01 General Eschatology](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VII.%20The%20Doctrine%20of%20Last%20Things/20%20The%20Millennial%20Views.one#20.01%20General%20Eschatology&section-id={028DE4D1-0FC7-7A4C-8DDE-6E9559A0FD38}&page-id={4BD5F1AF-B4C9-7944-A051-862D3A2F02DD}&end)
-
-- The Second Coming of Christ
-
-- The Second Coming A Single Event
-
-- Significant Events Preceding the Parousia
-
-- The Parousia or the Second Coming Itself
-
-- [20.02 Millennial Views](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VII.%20The%20Doctrine%20of%20Last%20Things/20%20The%20Millennial%20Views.one#20.02%20Millennial%20Views&section-id={028DE4D1-0FC7-7A4C-8DDE-6E9559A0FD38}&page-id={85036456-6AB9-6142-B255-A14E38755924}&end)
-
-- Premillennialism
-
-- Postmillennialism
-
-- Amillennialism
-
-- [20.03 The Resurrection of the Dead](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VII.%20The%20Doctrine%20of%20Last%20Things/20%20The%20Millennial%20Views.one#20.03%20The%20Resurrection%20of%20the%20Dead&section-id={028DE4D1-0FC7-7A4C-8DDE-6E9559A0FD38}&page-id={1A74C799-504E-D045-A006-4FA6A628726C}&end)
-
-- The Doctrine of the Resurrection in History
-
-- Scriptural Proof for the Resurrection
-
-- The Nature of the Resurrection
-
-- The Time of the Resurrection
-
-- The Final Judgement
-
-- The Doctrine of the Last Judgement in History
-
-- The Nature of the Final Judgement
-
-- The Time of the Judgement
-
-- [20.04 The Final State](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VII.%20The%20Doctrine%20of%20Last%20Things/20%20The%20Millennial%20Views.one#20.04%20The%20Final%20State&section-id={028DE4D1-0FC7-7A4C-8DDE-6E9559A0FD38}&page-id={6E1F48C6-4A96-B94F-A6AE-4CD68E8C753E}&end)
-
-- The Final State of the Wicked
-
-- The Final State of the Righteous
+		-[[19.02 The Intermediate State]]
+			- The Scriptural View of the Intermediate State
+			- The Doctrine of the Intermediate State in History
+		- Chapter XX: General Eschatology
+		- [[20.01 General Eschatology]]
+			- The Second Coming of Christ
+			- The Second Coming: A Single Event
+			- Significant Events Preceding the Parousia
+			- The Parousia or the Second Coming Itself
+		- [[20.02 Millennial Views]]
+			- Premillennialism
+			- Postmillennialism
+			- Amillennialism
+		-[[20.03 The Resurrection of the Dead]]
+			- The Doctrine of the Resurrection in History
+			- Scriptural Proof for the Resurrection
+			- The Nature of the Resurrection
+			- The Time of the Resurrection
+			- The Final Judgment
+			- The Doctrine of the Last Judgment in History
+			- The Nature of the Final Judgment
+			- The Time of the Judgment
+		- [[20.04 The Final State]]
+			- The Final State of the Wicked
+			- The Final State of the Righteous
