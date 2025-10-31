@@ -145,90 +145,54 @@
 		- The Original Condition of Man
 - Chapter IX: The Doctrine of Sin within Theological Anthropology
 	- [[9.01 Man in the State of Sin]]
+		- Historical View Respecting the Origin of Sin
+		-  The Nature of the First Sin | The Fall of Man
+		- Evolutionary Explanation of the Origin of Sin
+		- The Results of the First Sin
 	- [[9.02 The Characteristics of Sin]]
+		- The Nature of Evil
+		- The Scriptural Idea of Sin
 	- [[9.03 The Transmission of Sin]]
+		- The Universality of Sin
+		- The Connection of Adam's Sin with that of the Human Race
+		- Sin in the Life of the Human Race
+		- Original Sin
+		- Actual Sin
+		- The Unpardonable Sin
 	- [[9.04 The Punishment of Sin]]
+		- Natural and Positive Penalties
+		- Nature and the Purpose of Punishment
+		- The Actual Penalty of Sin
+**Section IV: The Doctrine of Christ**
+- Chapter X: The Person of Christ
+	- [[10.01 The Person of Christ]]
+		- The Relationship between Anthropology and Christology
+- Chapter XI: The Names of Christ
+	- [[11.01 The Names of Christ]]
+		- Jesus
+		- Christ
+		- Son of Man
+		- Son of God
+	- [[11.02 The Nature of Christ]]
+		- The Deity of Christ
+		- The Humanity of Christ
+		- Defining Nature and Person
+		- The Centrality of the Incarnation
+- Chapter XII: The States of Christ
+	- [[12.01 The States of Christ]]
+		- The State of Humiliation
+		- The Incarnation and Birth of Christ
+		- The Suffering Savior
+		- The States of Exaltation
+		- The Stages of Exaltation
+- Chapter XIII: The Offices of Christ
+	- [[13.01 The Offices of Christ]]
+		- The Proph
+	- [[13.02 The Atonement of Christ]]
+	- [[13.03 The Intercessory Work of Christ]]
 
 
-- Historical View Respecting the Origin of Sin
 
-- The Nature of the First Sin | The Fall of Man
-
-- Evolutionary Explanation of the Origin of Sin
-
-- The Results of the First Sin
-
-- [9.02 The Characteristics of Sin](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\9%20The%20Doctrine%20of%20Sin%20within%20Theological%20Anthropology.one#9.02%20The%20Characteristics%20of%20Sin&section-id={B1D683EC-FCDC-FA47-BAD3-A09E83C9E4F2}&page-id={A449E978-5B18-7944-941B-8E8D706F9A54}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Nature of Evil
-
-- The Scriptural Idea of Sin
-
-- [9.03 The Transmission of Sin](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\9%20The%20Doctrine%20of%20Sin%20within%20Theological%20Anthropology.one#9.03%20The%20Transmission%20of%20Sin&section-id={B1D683EC-FCDC-FA47-BAD3-A09E83C9E4F2}&page-id={5079C2D7-F361-AC47-8194-16D66EDF355F}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Universality of Sin
-
-- The Connection of Adam's Sin with that of the Human Race
-
-- Sin in the Life of the Human Race
-
-- Original Sin
-
-- Actual Sin
-
-- The Unpardonable Sin
-
-- [9.04 The Punishment of Sin](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\9%20The%20Doctrine%20of%20Sin%20within%20Theological%20Anthropology.one#9.04%20The%20Punishment%20of%20Sin&section-id={B1D683EC-FCDC-FA47-BAD3-A09E83C9E4F2}&page-id={C7865811-B533-DF40-B8CD-8CE78F2F1FE3}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- Natural and Positive Penalties
-
-- Nature and the Purpose of Punishment
-
-- The Actual Penalty of Sin
-
-[Section IV: The Doctrine of Christ (Christology)](onenote:The%20Doctrine%20of%20Christ\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-[Chapter 10: The Person of Christ](onenote:The%20Doctrine%20of%20Christ\10%20The%20Person%20of%20Christ.one#section-id={0F4BC154-AB10-EC46-A4F9-AD3561401749}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [10.01 The Person of Christ](onenote:The%20Doctrine%20of%20Christ\10%20The%20Person%20of%20Christ.one#10.01%20The%20Person%20of%20Christ&section-id={0F4BC154-AB10-EC46-A4F9-AD3561401749}&page-id={CACB0E38-F15C-6641-B565-4C8BCEB2017B}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Relationship between Anthropology and Christology
-
-[Chapter 11: The Names of Christ](onenote:The%20Doctrine%20of%20Christ\11%20The%20Names%20of%20Christ.one#section-id={7C143571-4ACE-FB43-BB80-11EEB82FB75E}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [11.01 The Names of Christ](onenote:The%20Doctrine%20of%20Christ\11%20The%20Names%20of%20Christ.one#11.01%20The%20Names%20of%20Christ&section-id={7C143571-4ACE-FB43-BB80-11EEB82FB75E}&page-id={756CB69A-F6E2-9E47-9B4E-C20469CE042B}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- Jesus
-
-- Christ
-
-- Son of Man
-
-- Son of God
-
-- [11.02 The Nature of Christ](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/The%20Doctrine%20of%20Christ/11%20The%20Names%20of%20Christ.one#11.02%20The%20Nature%20of%20Christ&section-id={7C143571-4ACE-FB43-BB80-11EEB82FB75E}&page-id={AB6DC473-0F00-674D-A8F7-0C21B90335FB}&end)
-
-- The Deity of Christ
-
-- The Humanity of Christ
-
-- Defining Nature and Person
-
-- The Centrality of the Incarnation
-
-[Chapter 12: The States of Christ](onenote:The%20Doctrine%20of%20Christ\12%20The%20States%20of%20Christ.one#section-id={397AAF19-5B09-E444-9713-FCBEC8F2EDF9}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [12.01 The Doctrine of the State of Christ in General](onenote:The%20Doctrine%20of%20Christ\12%20The%20States%20of%20Christ.one#12.01%20The%20States%20of%20Christ&section-id={397AAF19-5B09-E444-9713-FCBEC8F2EDF9}&page-id={BDBBEAFD-D0F7-BD47-A99B-86D2A65A6AA4}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The State of Humiliation
-
-- The Incarnation and Birth of Christ
-
-- The Suffering Savior
-
-- The State of Exaltation
-
-- The Stages of Exaltation
 
 [Chapter 13: The Offices of Christ](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/The%20Doctrine%20of%20Christ/13%20The%20Offices%20of%20Christ.one#section-id={4010D11D-A386-7645-8FF8-20E0B95FBA7B}&end)
 
