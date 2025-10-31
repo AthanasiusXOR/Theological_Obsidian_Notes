@@ -187,98 +187,62 @@
 		- The Stages of Exaltation
 - Chapter XIII: The Offices of Christ
 	- [[13.01 The Offices of Christ]]
-		- The Proph
+		- The Prophetic Office
+		- The Priestly Office
+		- The Kingly Office
 	- [[13.02 The Atonement of Christ]]
+		- The Cause and Necessity of the Atonement
+		- The Nature of the Atonement
+		- The Purpose and the Extent of the Atonement
 	- [[13.03 The Intercessory Work of Christ]]
+**Section V: The Doctrine of Applied Salvation**
+- Chapter VIX: The Operation of the Holy Spirit
+	- [[14.01 General and Special Operation of the Holy Spirit]]
+		- Ordo Salutis
+		- General and Special Operations of the Holy Spirit
+		- Grace
+	- [[14.02 Common Grace]]
+		- Origin of the Doctrine of Common Grace
+		- Names and Concept of Common Grace
+		- Common Grace and the Atoning Work of Christ
+		- Special and Common Grace
+		- How Common Grace Operates
+		- The Fruits of Common Grace
+	- [[14.03 The Mystical Union]]
+		- Calling in General and External Calling
+		- Calling in General
+		- External Calling
+		- Regeneration and Effectual Calling
+		- The Use of the Term Regeneration in Theology
+		- The Essential Nature of Regeneration
+		- The Necessity of Regeneration
+		- The Efficient Cause of Regeneration
+- Chapter VX: Conversion
+	- [[15.01 Conversion]]
+		- The Scriptural Terms for Conversion
+		- The Definition
+		- The Characteristics of Conversion
+		- The Necessity of Conversion
+	- [[15.02 Faith]]
+	- 	- Scriptural Terms for Faith
+		- Figurative Expressions Used to Describe the Activity of Faith
+		- The Doctrine of Faith in History
+		- The Idea of Faith in Scripture
+		- Faith in General
+		- Saving Faith
+		- Faith and Assurance
+		- Faith and Regeneration
+	- [[15.03 Justification]]
+	- [[15.04 Sanctification]]
+- Chapter VXI: Perseverance of the Saints
+	- [[16.01 Perseverance of the Saints]]
 
 
 
 
-[Chapter 13: The Offices of Christ](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/The%20Doctrine%20of%20Christ/13%20The%20Offices%20of%20Christ.one#section-id={4010D11D-A386-7645-8FF8-20E0B95FBA7B}&end)
-
-- [13.01 The Offices of Christ](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/The%20Doctrine%20of%20Christ/13%20The%20Offices%20of%20Christ.one#13.01%20The%20Offices%20of%20Christ&section-id={4010D11D-A386-7645-8FF8-20E0B95FBA7B}&page-id={7992916D-DFC9-F148-894F-3D40CFF64F26}&end)
-
-- The Prophetic Office
-
-- The Priestly Office
-
-- The Kingly Office
-
-- [13.02 The Atonement of Christ](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/The%20Doctrine%20of%20Christ/13%20The%20Offices%20of%20Christ.one#13.02%20The%20Atonement%20of%20Christ&section-id={4010D11D-A386-7645-8FF8-20E0B95FBA7B}&page-id={4E6474D8-C11D-CF40-A309-A05CF39AE73E}&end)
-
-- The Cause and Necessity of the Atonement
-
-- The Nature of the Atonement
-
-- The Purpose and the Extent of the Atonement
-
-- [13.03 The Intercessory Work of Christ](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/The%20Doctrine%20of%20Christ/13%20The%20Offices%20of%20Christ.one#13.03%20The%20Intercessory%20Work%20of%20Christ&section-id={4010D11D-A386-7645-8FF8-20E0B95FBA7B}&page-id={69F3A14A-997F-D648-8BE3-B0EBCB6F6578}&end)
-
-[Section V: The Doctrine of Applied Salvation (Soteriology)](onenote:V.%20The%20Doctrine%20of%20Applied%20Salvation\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-[Chapter 14: Soteriology in General](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/V.%20The%20Doctrine%20of%20Applied%20Salvation/14%20Operations%20of%20the%20Holy%20Spirit.one#section-id={BAB48B8F-9163-DB49-87E9-FCFF790059D7}&end)
-
-- [14.01 Pneumatology: The Operations of the Holy Spirit](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/V.%20The%20Doctrine%20of%20Applied%20Salvation/14%20Operations%20of%20the%20Holy%20Spirit.one#14.01%20General%20and%20Special%20Operation%20of%20the%20Holy%20Spirit&section-id={BAB48B8F-9163-DB49-87E9-FCFF790059D7}&page-id={55FCF972-BCD7-2A48-9C22-DF6DEDC34E4C}&end)
-
-- Ordo Salutis
-
-- General and Special Operation of the Holy Spirit
-
-- Grace
-
-- [14.02 Common Grace](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/V.%20The%20Doctrine%20of%20Applied%20Salvation/14%20Operations%20of%20the%20Holy%20Spirit.one#14.02%20Common%20Grace&section-id={BAB48B8F-9163-DB49-87E9-FCFF790059D7}&page-id={0ADEE277-14F1-CA40-AF00-E762B75DF01A}&end)
-
-- Origin of the Doctrine of Common Grace
-
-- Names and Concept of Common Grace
-
-- Common Grace and the Atoning Work of Christ
-
-- Special and Common Grace
-
-- How Common Grace Operates
-
-- The Fruits of Common Grace
-
-- [14.03 The Mystical Union](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/V.%20The%20Doctrine%20of%20Applied%20Salvation/14%20Operations%20of%20the%20Holy%20Spirit.one#14.03%20The%20Mystical%20Union&section-id={BAB48B8F-9163-DB49-87E9-FCFF790059D7}&page-id={62B12FDA-6A4C-B24D-8D24-D6C67E8C2DF7}&end)
-
-- Calling in General and External Calling
-
-- Calling in General
-
-- External Calling
-
-- Regeneration and Effectual Calling
-
-- The Use of the Term Regeneration in Theology
-
-- The Essential Nature of Regeneration
-
-- The Necessity of Regeneration
-
-- The Efficient Cause of Regeneration
-
-- [Chapter 15: Conversion](onenote:V.%20The%20Doctrine%20of%20Applied%20Salvation\15%20Conversion.one#section-id={F8CD53B3-A05C-D245-8311-C76986D06AAC}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [15.01 Conversion](onenote:V.%20The%20Doctrine%20of%20Applied%20Salvation\15%20Conversion.one#15.01%20Conversion&section-id={F8CD53B3-A05C-D245-8311-C76986D06AAC}&page-id={32AB6160-D8E4-0440-9C9E-147F079588BA}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Scriptural Terms for Conversion
-
-- The Definition
-
-- The Characteristics of Conversion
-
-- The Necessity of Conversion
 
 - [[15.02 Faith]]
-	- Scriptural Terms for Faith
-	- Figurative Expressions Used to Describe the Activity of Faith
-	- The Doctrine of Faith in History
-	- The Idea of Faith in Scripture
-	- Faith in General
-	- Saving Faith
-	- Faith and Assurance
-	- Faith and Regeneration
+
 
 - [[15.03 Justification]]
 	- The Doctrine of Justification in History
