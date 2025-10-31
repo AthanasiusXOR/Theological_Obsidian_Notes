@@ -233,106 +233,90 @@
 		- Faith and Assurance
 		- Faith and Regeneration
 	- [[15.03 Justification]]
+		 	- The Doctrine of Justification in History
+		- The Nature and Characteristics of Justification
+		- The Elements of Justification
+		- The Sphere in Which Justification Occurs
+		- The Ground of Justification
 	- [[15.04 Sanctification]]
-- Chapter VXI: Perseverance of the Saints
+		- Scriptural Terms for Sanctification and Holiness
+		- The Biblical Idea of Holiness and Sanctification
+		- The Nature of Sanctification
+		- The Characteristics of Sanctification
+		- The Doctrine of Sanctification in History- Chapter VXI: Perseverance of the Saints
 	- [[16.01 Perseverance of the Saints]]
-
-
-
-
-
-- [[15.02 Faith]]
-
-
-- [[15.03 Justification]]
-	- The Doctrine of Justification in History
-	- The Nature and Characteristics of Justification
-	- The Elements of Justification
-	- The Sphere in Which Justification Occurs
-	- The Ground of Justification
-
-- [[15.04 Sanctification]]
-	- Scriptural Terms for Sanctification and Holiness
-	- The Biblical Idea of Holiness and Sanctification
-	- The Nature of Sanctification
-	- The Characteristics of Sanctification
-	- The Doctrine of Sanctification in History
-
-	- Chapter XVI: Perseverance of the Saints
-		- [[16.01 Perseverance of the Saints]]
-			- The Doctrine of the Perseverance of the Saints in History
-			- Statement of the Doctrine of Perseverance
-			- Proof for the Doctrine of Perseverance
-
-Section VI: The Doctrine of the Church
-	- Chapter VXII: The Doctrine of the Church
-		- [[17.01 The Church]]
-			- Scriptural Names of the Church and the Doctrine of the Church in History
-			- Scriptural Names for the Church
-			- The Doctrine of the Church in History
-			- The Nature of the Church
-			- The Essence of the Church
-			- The Church and the Kingdom of God
-			- Church in the Different Dispensations
-			- The Attributes of the Church
-			- The Marks of the Church
-		- [[17.02 The Government of the Church]]
-			- Different Theories Respecting the Government of the Church
-			- The Officers of the Church
-		- [[17.03 The Power of the Church]]
-			- The Source of Church Power
-			- The Nature of this Power
-	- Chapter XVIII: The Means of Grace
-		- [[18.01 The Means of Grace]]
-			- The Idea of the Means of Grace
-			-  Characteristics of the Word and the Sacraments as Means of Grace
-			- Historical Views Respecting the Means of Grace
-			- The Word as a Means of Grace
-			- The Relation of the Word to the Holy Spirit
-			- The Threefold Use of the Law
-			- The Sacraments in General
-			- Relationship Between the Word and the Sacraments
-			- Origin and Meaning of the Word Sacraments
-			- The Component Parts of the Sacraments
-			- The Necessity of the Sacraments
-		-[[18.02 Christian Baptism]]
-			- The Institutes of Christian Baptism
-			- The Doctrine of Baptism in History
-			- The Proper Mode of Baptism
-		- [[18.03 The Lord's Supper]]
-			- The Doctrine of the Lord's Supper in History
-			- The Institute of the Lord's Supper
-			- The Lord's Supper as a Means of Grace
-Section VII: The Doctrine of Last Things
-		- Chapter XIX
-		-[[19.01 Eschatology]]
-			- Introductory Eschatology
-			- Physical Death
-			- The Nature of Physical Death
-			- The Connection of Sin and Death
-			- The Immortality of the Soul
-		-[[19.02 The Intermediate State]]
-			- The Scriptural View of the Intermediate State
-			- The Doctrine of the Intermediate State in History
-		- Chapter XX: General Eschatology
-		- [[20.01 General Eschatology]]
-			- The Second Coming of Christ
-			- The Second Coming: A Single Event
-			- Significant Events Preceding the Parousia
-			- The Parousia or the Second Coming Itself
-		- [[20.02 Millennial Views]]
-			- Premillennialism
-			- Postmillennialism
-			- Amillennialism
-		-[[20.03 The Resurrection of the Dead]]
-			- The Doctrine of the Resurrection in History
-			- Scriptural Proof for the Resurrection
-			- The Nature of the Resurrection
-			- The Time of the Resurrection
-			- The Final Judgment
-			- The Doctrine of the Last Judgment in History
-			- The Nature of the Final Judgment
-			- The Time of the Judgment
-		- [[20.04 The Final State]]
-			- The Final State of the Wicked
-			- The Final State of the Righteous
+		- The Doctrine of the Perseverance of the Saints in History
+		- Statement of the Doctrine of Perseverance
+		- Proof for the Doctrine of Perseverance
+**Section VI: The Doctrine of the Church**
+-  Chapter VXII: The Doctrine of the Church
+	- [[17.01 The Church]]
+		- Scriptural Names of the Church and the Doctrine of the Church in History
+		- Scriptural Names for the Church
+		- The Doctrine of the Church in History	
+		- The Nature of the Church
+		- The Essence of the Church
+		- The Church and the Kingdom of God			
+		- Church in the Different Dispensations
+		- The Attributes of the Church
+		- The Marks of the Church
+	- [[17.02 The Government of the Church]]
+		- Different Theories Respecting the Government of the Church
+		- The Officers of the Church
+	- [[17.03 The Power of the Church]]
+		- The Source of Church Power
+		- The Nature of this Power
+-  Chapter XVIII: The Means of Grace
+	- [[18.01 The Means of Grace]]
+		- The Idea of the Means of Grace
+		-  Characteristics of the Word and the Sacraments as Means of Grace
+		- Historical Views Respecting the Means of Grace
+		- The Word as a Means of Grace
+		- The Relation of the Word to the Holy Spirit
+		- The Threefold Use of the Law
+		- The Sacraments in General
+		- Relationship Between the Word and the Sacraments
+		- Origin and Meaning of the Word Sacraments
+		- The Component Parts of the Sacraments
+		- The Necessity of the Sacraments
+	- [[18.02 Christian Baptism]]
+		- The Institutes of Christian Baptism
+		- The Doctrine of Baptism in History
+		- The Proper Mode of Baptism
+	- [[18.03 The Lord's Supper]]
+		- The Doctrine of the Lord's Supper in History
+		- The Institute of the Lord's Supper
+		- The Lord's Supper as a Means of Grace
+**Section VII: The Doctrine of Last Things**
+- Chapter XIX
+	- [[19.01 Eschatology]]
+		- Introductory Eschatology
+		- Physical Death
+		- The Nature of Physical Death
+		- The Connection of Sin and Death
+		- The Immortality of the Soul
+	- [[19.02 The Intermediate State]]
+		- The Scriptural View of the Intermediate State
+		- The Doctrine of the Intermediate State in History
+- Chapter XX: General Eschatology
+	- [[20.01 General Eschatology]]
+		- The Second Coming of Christ
+		- The Second Coming: A Single Event
+		- Significant Events Preceding the Parousia
+		- The Parousia or the Second Coming Itself
+	- [[20.02 Millennial Views]]
+		- Premillennialism
+		- Postmillennialism
+		- Amillennialism
+	- [[20.03 The Resurrection of the Dead]]
+		- The Doctrine of the Resurrection in History
+		- Scriptural Proof for the Resurrection
+		- The Nature of the Resurrection
+		- The Time of the Resurrection
+		- The Final Judgment
+		- The Doctrine of the Last Judgment in History
+		- The Nature of the Final Judgment
+		- The Time of the Judgment
+	- [[20.04 The Final State]]
+		- The Final State of the Wicked
+		- The Final State of the Righteous
