@@ -325,59 +325,38 @@ Chapter I: Preliminary Considerations
 
 - The Necessity of Conversion
 
-- [15.02 Faith](onenote:V.%20The%20Doctrine%20of%20Applied%20Salvation\15%20Conversion.one#15.02%20Faith&section-id={F8CD53B3-A05C-D245-8311-C76986D06AAC}&page-id={58C52E48-0D5A-FC4E-ACD5-0A4728F42B3D}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
+- [[15.02 Faith]]
+	- Scriptural Terms for Faith
+	- Figurative Expressions Used to Describe the Activity of Faith
+	- The Doctrine of Faith in History
+	- The Idea of Faith in Scripture
+	- Faith in General
+	- Saving Faith
+	- Faith and Assurance
+	- Faith and Regeneration
 
-- Scriptural Terms for Faith
+- [[15.03 Justification]]
+	- The Doctrine of Justification in History
+	- The Nature and Characteristics of Justification
+	- The Elements of Justification
+	- The Sphere in Which Justification Occurs
+	- The Ground of Justification
 
-- Figurative Expressions Used to Describe the Activity of Faith
+- [[15.04 Sanctification]]
+	- Scriptural Terms for Sanctification and Holiness
+	- The Biblical Idea of Holiness and Sanctification
+	- The Nature of Sanctification
+	- The Characteristics of Sanctification
+	- The Doctrine of Sanctification in History
 
-- The Doctrine of Faith in History
+Chapter XVI: Perseverance of the Saints
+- [[16.01 Perseverance of the Saints]]
+	- The Doctrine of the Perseverance of the Saints in History
+	- Statement of the Doctrine of Perseverance
+	- Proof for the Doctrine of Perseverance
 
-- The Idea of Faith in Scripture
+Chapter VXII: The Doctrine of the Church
 
-- Faith in General
-
-- Saving Faith
-
-- Faith and Assurance
-
-- [15.03 Justification](onenote:V.%20The%20Doctrine%20of%20Applied%20Salvation\15%20Conversion.one#15.03%20Justification&section-id={F8CD53B3-A05C-D245-8311-C76986D06AAC}&page-id={BDE159D4-BF66-D44D-ADD0-A3C056B8351C}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Doctrine of Justification in History
-
-- The Nature and Characteristics of Justification
-
-- The Elements of Justification
-
-- The Sphere in Which Justification Occurs
-
-- The Ground of Justification
-
-- 1[5.04 Sanctification](onenote:V.%20The%20Doctrine%20of%20Applied%20Salvation\15%20Conversion.one#15.04%20Sanctification&section-id={F8CD53B3-A05C-D245-8311-C76986D06AAC}&page-id={E29807B8-0AFD-804A-8E8F-82838A922E84}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- Scriptural Terms for Sanctification and Holiness
-
-- The Biblical Idea of Holiness and Sanctification
-
-- The Nature of Sanctification
-
-- The Characteristics of Sanctification
-
-- The Doctrine of Sanctification in History
-
-[Chapter 16: Perseverance of the Saints](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/V.%20The%20Doctrine%20of%20Applied%20Salvation/16%20Perseverance%20of%20the%20Saints.one#section-id={BDD3431C-A240-0543-A1A9-DE2E917D9C78}&end)
-
-- [16.01 Perseverance of the Saints](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/V.%20The%20Doctrine%20of%20Applied%20Salvation/16%20Perseverance%20of%20the%20Saints.one#16.01%20Perseverance%20of%20the%20Saints&section-id={BDD3431C-A240-0543-A1A9-DE2E917D9C78}&page-id={F962104B-E531-3540-85D1-80CBB8BBE991}&end)
-
-- The Doctrine of the Perseverance of the Saints in History
-
-- Statement of the Doctrine of Perseverance
-
-- Proof for the Doctrine of Perseverance
-
-[Section VI: The Doctrine of the Church](onenote:VI.The%20Doctrine%20of%20the%20Church\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-[Chapter 17: The Church](onenote:VI.The%20Doctrine%20of%20the%20Church\17%20The%20Church.one#section-id={2310F9BB-DDA3-F841-B75D-117AE0C9E4ED}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - [17.01 The Church](onenote:VI.The%20Doctrine%20of%20the%20Church\17%20The%20Church.one#17.01%20The%20Church&section-id={2310F9BB-DDA3-F841-B75D-117AE0C9E4ED}&page-id={CF7655EB-B09B-7348-ADAA-E6BF8DD3F64D}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
