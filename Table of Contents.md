@@ -89,47 +89,41 @@
 		- Truthfulness | Faithfulness
 		- Moral Attributes of Our Triune Covenant Lord
 	- [[5.02 Communion with the Triune God]]
+		- Communion with God the Father
+		- Communion with Christ, the Son of God
+- Chapter XI: The Triune God
+	- [[6.01 The Doctrine of the Trinity in History]]
+		- Pre-Reformation Positions
+	- Post-Reformation Positions
+	- [[6.02 God as Trinity in Unity]]
+		- Three Persons Considered Separately
+		- The Father
+		- The Son
+		- The Spirit
+		- The Triune God of Glory
+		- Definition of Trinity
+		- Biblical Evidence for the Trinity
+		- Old Testament
+		- New Testament
+		- Trinitarian Cooperation in Inspiration
+- Chapter XVII: The Divine Decrees of God
+	- [[7.01 The Divine Decree of God in General]]
+	- [[7.02 Predestination]]
+		- The Doctrine of Predestination in History
+		- The Parts of Predestination
+		- Election
+		- Reprobation
+		- Supra- and Infralapsarianism
+	-[[7.03 Creation]]
+		- The Doctrine of Creation in History
+		- The Idea of Creation
+		- The Doctrine of Angels in History
+		- The Nature of Angels
+		- Creation of the Material World
+		- The Scriptural Account of Creation
+		- Doctrine of Creation versus Evolution
+	- [[7.04 Providence]]
 
-[Chapter 6: The Triune God](onenote:Theology%20Proper\6%20The%20Triune%20God.one#section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [6.01 The Doctrine of the Trinity in History](onenote:Theology%20Proper\6%20The%20Triune%20God.one#6.01%20The%20Doctrine%20of%20the%20Trinity%20in%20History&section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&page-id={CDB289E3-A885-E649-B9DE-E1B9E1D79D90}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- Pre-Reformation Positions
-- Post-Reformation Positions
-
-- [6.02 God as Trinity in Unity](onenote:Theology%20Proper\6%20The%20Triune%20God.one#6.02%20God%20as%20Trinity%20in%20Unity&section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&page-id={7A500E6D-03EE-984E-BD95-1874B129AC0F}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- Three Persons Considered Separately
-- The Father
-- The Son
-- The Spirit
-- The Triune God of Glory
-- Definition of Trinity
-- Biblical Evidence for the Trinity
-- Old Testament
-- New Testament
-- Trinitarian Cooperation in Inspiration
-
-[Chapter 7: The Divine Decrees of God](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [7.01 The Divine Decrees in General](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.01%20The%20Divine%20Decree%20of%20God%20in%20General&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={4A1BA6CB-BEF6-944F-9D76-67C2A69FFC7E}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [7.02 Predestination](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.02%20Predestination&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={5155CE03-B5DC-8446-B11C-BE50A97A9887}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- The Doctrine of Predestination in History
-- The Parts of Predestination
-- Election
-- Reprobation
-- Supra- and Infralapsarianism
-
-- [7.03 Creation](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.03%20Creation&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={AAC96F6E-2991-8848-B895-CFF01652ADD4}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Doctrine of Creation in History
-- The Idea of Creation
-- The Doctrine of Angels in History
-- The Nature of Angels
-- Creation of the Material World
-- The Scriptural Account of Creation
-- Doctrine of Creation versus Evolution
-
-- [7.04 Providence](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.04%20Providence&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={54E1CECB-67DE-C64B-9BEF-D50A774D93D6}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - Providence in General
 - Preservation
