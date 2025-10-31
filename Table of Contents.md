@@ -1,4 +1,4 @@
-- Section I: Prolegomena | Introduction to Theology
+**Section I: Prolegomena | Introduction to Theology**
 - Chapter I: Preliminary Considerations
 	- [[1.01 Theology]]
 		- The History of Dogmatics
@@ -22,73 +22,73 @@
 - Chapter II: Doctrine of Scripture
 	- [[2.01 Principia in General]]
 		- The Triune Covenant Lord: Theological Overview
-	- [[2.0]]
-	- Concept of Revelation
-	- General Revelation
-	- Special Revelation
-- [2.03 The Doctrine of Scripture](onenote:Prolegomena\2%20The%20Doctrine%20of%20Scripture.one#2.03%20The%20Doctrine%20of%20Scripture&section-id={C315ECD8-D624-A640-B0B2-4D8ACA0EFF31}&page-id={8F576CCA-6BF8-4849-8932-4B12F30D93BB}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-	- Inspiration of Scripture
-	- Generic Inspiration
-	- Prophetic Inspiration
-	- Apostolic Inspiration
-	- The Infallibility and Inerrancy of Scripture
-	- The Characteristics of Scripture
-	- The Authority of Scripture
-	- The Clarity of Scripture
-	- The Necessity of Scripture
-	- The Sufficiency of Scripture
-- [2.04 The Principium Cognoscendi Internum](onenote:Prolegomena\2%20The%20Doctrine%20of%20Scripture.one#2.04%20The%20Principium%20Cognoscendi%20Internum&section-id={C315ECD8-D624-A640-B0B2-4D8ACA0EFF31}&page-id={C3212C52-F1B4-BA46-B25A-FC2F29D3B251}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-[Chapter 3: Metanarrative | Hermeneutical Frameworks](onenote:Prolegomena\3%20Hermeneutcal%20Framework.one#section-id={CD8D5A60-908F-4844-8F8C-9B74EB1AB3FF}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- [3.01 Hermeneutical Frameworks](onenote:Prolegomena\3%20Hermeneutcal%20Framework.one#3.01%20Hermeneutical%20Frameworks&section-id={CD8D5A60-908F-4844-8F8C-9B74EB1AB3FF}&page-id={E8166989-A7D7-A14F-B714-0A5AC26F37C8}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-	- Creation, Fall, Redemption, and New Creation
-	- Creation
-	- Fall
-	- Redemption
-	- New Creation
-	- Applying the Bible's Theological Frameworks and Its Plot Movements
- - [3.02 Covenantalism](onenote:Prolegomena\3%20Hermeneutcal%20Framework.one#3.02%20Covenantalism&section-id={CD8D5A60-908F-4844-8F8C-9B74EB1AB3FF}&page-id={0A2BF002-46AA-CB42-AFBD-5B602C6D6A1C}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-	 - The Covenant of Redemptions
-	 - The Covenant of Works
-	 - The Covenant of Grace
-- [3.03 Progressive Covenantalism](onenote:Prolegomena\3%20Hermeneutcal%20Framework.one#3.03%20Progressive%20Covenantalism&section-id={CD8D5A60-908F-4844-8F8C-9B74EB1AB3FF}&page-id={50C5567E-4D30-BB4E-9F2F-F863EEA87969}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-	- The Covenant with Noah
-	- The Covenant with Creation
-	- The Covenant with Abraham
-	- The Mosaic Covenant
-	- The Covenant with David
-	- The New Covenant
-	- Critiques of Covenantalism and Dispensationalism
-- [3.04 Dispensationalism](onenote:Prolegomena\3%20Hermeneutcal%20Framework.one#3.04%20Dispensationalism&section-id={CD8D5A60-908F-4844-8F8C-9B74EB1AB3FF}&page-id={3CF5E3A2-7D1E-1C4B-A54E-4E10FD6815E4}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-	- Classic Dispensationalism
-	- Traditional Dispensationalism
-	- Progressive Dispensationalism
-[Section II: The Doctrine of God (Theology Proper)](onenote:Theology%20Proper\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-[Chapter 4 - The Being of God](onenote:Theology%20Proper\4%20The%20Being%20of%20God.one#section-id={36FBA14F-1470-114C-84D6-0F65963CC028}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- [4.01  The Existence of God](onenote:Theology%20Proper\4%20The%20Being%20of%20God.one#4.01%20The%20Existence%20of%20God&section-id={36FBA14F-1470-114C-84D6-0F65963CC028}&page-id={AFB66DFB-94DE-1944-9EDD-D2F807D8CABF}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- [4.02 The Knowability of God](onenote:Theology%20Proper\4%20The%20Being%20of%20God.one#4.02%20The%20Knowability%20of%20God&section-id={36FBA14F-1470-114C-84D6-0F65963CC028}&page-id={F338680C-543A-6B4C-BEAD-CFC93848280B}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- [4.03 The Name of God](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/Theology%20Proper/4%20The%20Being%20of%20God.one#4.03%20The%20Names%20of%20God&section-id={36FBA14F-1470-114C-84D6-0F65963CC028}&page-id={0643B234-FAA1-7C4A-A4C3-E3E2E093C466}&end)
-- Old Testament Names and Their Meaning
-- New Testament Names and Their Meaning
-[Chapter 5: The Attributes of God](onenote:Theology%20Proper\5%20The%20Properties%20of%20God.one#section-id={DEF58F85-167D-694E-ACA4-771A4561A9B2}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [5.01  The Properties (or Attributes) of God](onenote:Theology%20Proper\5%20The%20Properties%20of%20God.one#5.01%20The%20Properties%20\(or%20Attributes\)%20of%20God&section-id={DEF58F85-167D-694E-ACA4-771A4561A9B2}&page-id={63A253D2-E038-3D42-BDB0-6F03651B4629}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- What is an Attribute | Evaluation of the Term?
-- Method of Determining the Attribute of God
-- Divine Simplicity
-- Transcendence and Immanence
-- Metaphysical Attributes of our Triune Covenant Lord (Incommunicable Attributes)
-- Aseity
-- Immutability
-- Impassability
-- Eternal | Infinity
-- Omnipresent
-- Omnipotent
-- Epistemological Attributes of Our Covenant Lord (Communicable)
-- Omniscience
-- Wisdom of God
-- Spirituality
-- Truthfulness | Faithfulness
-- Moral Attributes of Our Triune Covenant Lord
+	- [[2.02 The Principium Cognoscendi Externum (Revelation)]]
+		- Concept of Revelation
+		- General Revelation
+		- Special Revelation
+	- [[2.03 The Doctrine of Scripture]]
+		- Inspiration of Scripture
+		- Generic Inspiration
+		- Prophetic Inspiration
+		- Apostolic Inspiration
+		- The Infallibility and Inerrancy of Scripture
+		- The Characteristics of Scripture
+		- The Authority of Scripture
+		- The Clarity of Scripture
+		- The Necessity of Scripture
+		- The Sufficiency of Scripture
+	- [[2.04 The Principium Cognoscendi Internum]]
+- Chapter III: Hermeneutical Framework
+	- [[3.01 Hermeneutical Frameworks]]
+		- Creation, Fall, Redemption, and New Creation
+		- Creation
+		- Fall
+		- Redemption
+		- New Creation
+		- Applying the Bible's Theological Frameworks and Its Plot Movements
+	 - [[3.02 Covenantalism]]
+		 - The Covenant of Redemptions
+		 - The Covenant of Works
+		 - The Covenant of Grace
+	- [[3.03 Progressive Covenantalism]]]
+		- The Covenant with Noah
+		- The Covenant with Creation
+		- The Covenant with Abraham
+		- The Mosaic Covenant
+		- The Covenant with David
+		- The New Covenant
+		- Critiques of Covenantalism and Dispensationalism
+	- [[3.04 Dispensationalism]]
+		- Classic Dispensationalism
+		- Traditional Dispensationalism
+		- Progressive Dispensationalism
+**Section II: Theology Proper**
+- Chapter IV: The being of God
+	- [[4.01 The Existence of God]]
+	- [[4.02 The Knowability of God]]
+	- [[4.03 The Names of God]]
+		- Old Testament Names and Their Meaning
+		- New Testament Names and Their Meaning
+- Chapter V: The Properties of God
+	- [[5.01 The Properties (or Attributes) of God]]
+		- What is an Attribute | Evaluation of the Term?
+		- Method of Determining the Attribute of God
+		- Divine Simplicity
+		- Transcendence and Immanence
+		- Metaphysical Attributes of our Triune Covenant Lord (Incommunicable Attributes)
+		- Aseity
+		- Immutability
+		- Impassability
+		- Eternal | Infinity
+		- Omnipresent
+		- Omnipotent
+		- Epistemological Attributes of Our Covenant Lord (Communicable)
+		- Omniscience
+		- Wisdom of God
+		- Spirituality
+		- Truthfulness | Faithfulness
+		- Moral Attributes of Our Triune Covenant Lord
+	- [[5.02 Communion with the Triune God]]
 
 [Chapter 6: The Triune God](onenote:Theology%20Proper\6%20The%20Triune%20God.one#section-id={097C7E1C-26D1-9A4B-8672-6AF7E8FA32DD}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
