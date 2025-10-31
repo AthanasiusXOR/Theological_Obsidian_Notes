@@ -355,99 +355,53 @@ Chapter XVI: Perseverance of the Saints
 	- Statement of the Doctrine of Perseverance
 	- Proof for the Doctrine of Perseverance
 
-Chapter VXII: The Doctrine of the Church
-
-
-- [17.01 The Church](onenote:VI.The%20Doctrine%20of%20the%20Church\17%20The%20Church.one#17.01%20The%20Church&section-id={2310F9BB-DDA3-F841-B75D-117AE0C9E4ED}&page-id={CF7655EB-B09B-7348-ADAA-E6BF8DD3F64D}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- Scriptural Names of the Church and the Doctrine of the Church in History
-
-- Scriptural Names for the Church
-
-- The Doctrine of the Church in History
-
-- The Nature of the Church
-
-- The Essence of the Church
-
-- The Church and the Kingdom of God
-
-- Church in the Different Dispensations
-
-- The Attributes of the Church
-
-- The Marks of the Church
-
-- [17.02 The Government of the Church](onenote:VI.The%20Doctrine%20of%20the%20Church\17%20The%20Church.one#17.02%20The%20Government%20of%20the%20Church&section-id={2310F9BB-DDA3-F841-B75D-117AE0C9E4ED}&page-id={4AAC4B6A-433B-B441-96FA-FC4ED4AF6852}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- Different Theories Respecting the Government of the Church
-
-- The Officers of the Church
-
-- [17.03 The Power of the Church](onenote:VI.The%20Doctrine%20of%20the%20Church\17%20The%20Church.one#17.03%20The%20Power%20of%20the%20Church&section-id={2310F9BB-DDA3-F841-B75D-117AE0C9E4ED}&page-id={09E91DAF-222A-B445-8E79-64CD9FF8413C}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- The Source of Church Power
-
-- The Nature of this Power
-
-[Chapter 18: The Means of Grace](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VI.The%20Doctrine%20of%20the%20Church/18%20The%20Means%20of%20Grace.one#section-id={593262CB-348C-6145-9597-D0D4E81D5584}&end)
-
-- [18.01 The Means of Grace](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VI.The%20Doctrine%20of%20the%20Church/18%20The%20Means%20of%20Grace.one#18.01%20The%20Means%20of%20Grace&section-id={593262CB-348C-6145-9597-D0D4E81D5584}&page-id={3C5536B9-C916-AF45-A501-7407740CC19F}&end)
-
-- The Idea of the Means of Grace
-
-- Characteristics of the Word and the Sacraments as Means of Grace
-
-- Historical Views Respecting the Means of Grace
-
-- The Word as a Means of Grace
-
-- The Relation of the Word to the Holy Spirit
-
-- The Threefold Use of the Law
-
-- The Sacraments in General
-
-- Relationship Between the Word and the Sacraments
-
-- Origin and Meaning of the Word Sacraments
-
-- The Component Parts of the Sacraments
-
-- The Necessity of the Sacraments
-
-- [18.02 Christian Baptism](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VI.The%20Doctrine%20of%20the%20Church/18%20The%20Means%20of%20Grace.one#18.02%20Christian%20Baptism&section-id={593262CB-348C-6145-9597-D0D4E81D5584}&page-id={52511834-DF23-4747-BE06-1BA647A19E36}&end)
-
-- The Institutes of Christian Baptism
-
-- The Doctrine of Baptism in History
-
-- The Proper Mode of Baptism
-
-- [18.03 The Lord's Supper](onenote:https://d.docs.live.net/FC52DEA27C35B98D/Documents/Reformed%20Dogmatics/VI.The%20Doctrine%20of%20the%20Church/18%20The%20Means%20of%20Grace.one#18.03%20The%20Lord's%20Supper&section-id={593262CB-348C-6145-9597-D0D4E81D5584}&page-id={93479F8D-3B5C-9A40-BA47-53661816689A}&end)
-
-- The Doctrine of the Lord's Supper in History
-
-- The Institute of the Lord's Supper
-
-- The Lord's Supper as a Means of Grace
-
-[Section VII: The Doctrine of Last Things (Eschatology)](onenote:VII.%20The%20Doctrine%20of%20Last%20Things\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-[Chapter 19: Eschatology](onenote:VII.%20The%20Doctrine%20of%20Last%20Things\19%20Eschatology.one#section-id={1FEF306D-E38A-4C43-B2D5-73D97E06BDB5}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [19.01 Eschatology](onenote:VII.%20The%20Doctrine%20of%20Last%20Things\19%20Eschatology.one#19.01%20Eschatology&section-id={1FEF306D-E38A-4C43-B2D5-73D97E06BDB5}&page-id={8CE69E6F-5684-0E41-8E39-845293022976}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- Introductory Eschatology
-
-- Physical Death
-
-- The Nature of Physical Death
-
-- The Connection of Sin and Death
-
-- The Immortality of the Soul
-
+Section VI: The Doctrine of the Church
+	- Chapter VXII: The Doctrine of the Church
+	- [[17.01 The Church]]
+		- Scriptural Names of the Church and the Doctrine of the Church in History
+		- Scriptural Names for the Church
+		- The Doctrine of the Church in History
+		- The Nature of the Church
+		- The Essence of the Church
+		- The Church and the Kingdom of God
+		- Church in the Different Dispensations
+		- The Attributes of the Church
+		- The Marks of the Church
+	- [[17.02 The Government of the Church]]
+		- Different Theories Respecting the Government of the Church
+		- The Officers of the Church
+	- [[17.03 The Power of the Church]]
+		- The Source of Church Power
+		- The Nature of this Power
+	- Chapter XVIII: The Means of Grace
+		- [[18.01 The Means of Grace]]
+			- The Idea of the Means of Grace
+			-  Characteristics of the Word and the Sacraments as Means of Grace
+			- Historical Views Respecting the Means of Grace
+			- The Word as a Means of Grace
+			- The Relation of the Word to the Holy Spirit
+			- The Threefold Use of the Law
+			- The Sacraments in General
+			- Relationship Between the Word and the Sacraments
+			- Origin and Meaning of the Word Sacraments
+			- The Component Parts of the Sacraments
+			- The Necessity of the Sacraments
+		-[[18.02 Christian Baptism]]
+			- The Institutes of Christian Baptism
+			- The Doctrine of Baptism in History
+			- The Proper Mode of Baptism
+		- [[18.03 The Lord's Supper]]
+			- The Doctrine of the Lord's Supper in History
+			- The Institute of the Lord's Supper
+			- The Lord's Supper as a Means of Grace
+Section VII: The Doctrine of Last Things
+		-[[19.01 Eschatology]]
+			- Introductory Eschatology
+			- Physical Death
+			- The Nature of Physical Death
+			- The Connection of Sin and Death
+			- The Immortality of the Soul
+		-[[The ]]
 - [19.02 The Intermediate State](onenote:VII.%20The%20Doctrine%20of%20Last%20Things\19%20Eschatology.one#19.02%20The%20Intermediate%20State&section-id={1FEF306D-E38A-4C43-B2D5-73D97E06BDB5}&page-id={7C784D31-1728-7244-B36F-72EB5B6E19C2}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - The Scriptural View of the Intermediate State
