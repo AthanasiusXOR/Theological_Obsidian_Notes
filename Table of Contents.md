@@ -123,38 +123,32 @@
 		- The Scriptural Account of Creation
 		- Doctrine of Creation versus Evolution
 	- [[7.04 Providence]]
+		- Providence in General
+		- Preservation
+		- Concurrence
+		- Government
+	- [[7.05 Miracles]]
+**Section III: The Doctrine of Man about God (Theological Anthropology**)
+- Chapter VIII: Theological Anthropology
+	- [[8.01 The Origin of Man]]
+		- The Doctrine of Man in Dogmatics
+		- The Scriptural Account of the Origin of Man
+		- The Evolutionary Theory of Man's Origin
+		- The Unity of Humanity
+	- [[8.02 The Nature of Man]]
+		- The Elements of Human Nature | Trichotomy versus Dichotomy
+		- The Origin of the Soul in the Individual
+	- [[8.03 Imago Dei (The Image of God)]]
+		- Historical View of the Image of God in Man
+		- Scriptural Data
+		- Man as the Image of God
+		- The Original Condition of Man
+- Chapter IX: The Doctrine of Sin within Theological Anthropology
+	- [[9.01 Man in the State of Sin]]
+	- [[9.02 The Characteristics of Sin]]
+	- [[9.03 The Transmission of Sin]]
+	- [[9.04 The Punishment of Sin]]
 
-
-- Providence in General
-- Preservation
-- Concurrence
-- Government
-
-- [7.05 Miracles](onenote:Theology%20Proper\7%20The%20Divine%20Decrees%20of%20God.one#7.05%20Miracles&section-id={E6F87D6A-A43A-9D47-B271-7D3F2282EF1B}&page-id={D3156DF7-1F90-074D-8ABD-1ABC7F0C110D}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-[Section III: The Doctrine of Man about God (Theological Anthropology)](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\#base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-[Chapter 8: Theological Anthropology](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
-- [8.01 The Origin of Man](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#8.01%20The%20Origin%20of%20Man&section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&page-id={4DDBB795-C99D-6549-84D2-FCF44E4EC15A}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- The Doctrine of Man in Dogmatics
-- The Scriptural Account of the Origin of Man
-- The Evolutionary Theory of Man's Origin
-- The Unity of Humanity
-
-- [8.02 The Nature of Man](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#8.02%20The%20Nature%20of%20Man&section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&page-id={781ADB90-99B3-4C45-9225-43DF7CC7AECE}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- The Elements of Human Nature | Trichotomy versus Dichotomy
-- The Origin of the Soul in the Individual
-
-- [8.03 Imago Dei](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\8%20Theological%20Anthropology.one#8.03%20Imago%20Dei%20\(The%20Image%20of%20God\)&section-id={77BFBE2B-3F11-E541-BCED-4DF2AA8A6FEB}&page-id={AB5990C6-5F36-3B46-9367-43FCA283F225}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-- Historical View of the Image of God in Man
-- Scriptural Data
-- Man as the Image of God
-- The Original Condition of Man
-
-[Chapter 9: The Doctrine of Sin (Harmatology) within Theological Anthropology](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\9%20The%20Doctrine%20of%20Sin%20within%20Theological%20Anthropology.one#section-id={B1D683EC-FCDC-FA47-BAD3-A09E83C9E4F2}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
-
--  [9.01 Man in the State of Sin](onenote:The%20Doctrine%20of%20Man%20in%20Relation%20to%20God\9%20The%20Doctrine%20of%20Sin%20within%20Theological%20Anthropology.one#9.01%20Man%20in%20a%20State%20of%20Sin&section-id={B1D683EC-FCDC-FA47-BAD3-A09E83C9E4F2}&page-id={A387F3B2-8520-B24D-BE96-C83DE45CB4C1}&end&base-path=https://d.docs.live.net/fc52dea27c35b98d/Documents/Reformed%20Dogmatics)
 
 - Historical View Respecting the Origin of Sin
 
