@@ -14,6 +14,8 @@ Bray, Gerald. The Doctrine of God: Contours of Christian Theology. Downers Grove
 
 Brewer, Thomas. editor. Table Talk Magazine: Stewardship. Sanford, FL: Ligonier Ministries, 2025.
 
+DeMarest, Bruce. *The Cross and Salvation: The Doctrine of Salvation*. Crossway, Wheaton, IL: 1997.
+
 DeYoung, Kevin. Daily Doctrine. Wheaton, IL: Crossway, 2025.
 
 Ferguson, Sinclair. The Holy Spirit: Contours of Christian Theology. Downers Grove, IL: InterVarsity Press, 1996.
