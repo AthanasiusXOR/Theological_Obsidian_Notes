@@ -202,14 +202,15 @@
 		- Ordo Salutis
 		- General and Special Operations of the Holy Spirit
 		- Grace
-	- [[14.02 Common Grace]]
+	- [[14.02 The Doctrine of Grace - Common Grace]]
+		- The Doctrine of Grace
 		- Origin of the Doctrine of Common Grace
 		- Names and Concept of Common Grace
 		- Common Grace and the Atoning Work of Christ
 		- Special and Common Grace
 		- How Common Grace Operates
 		- The Fruits of Common Grace
-	- [[14.03 Special Grace]]
+	- [[14.03 The Doctrine of Grace - Special Grace]]
 	- [[14.04 The Mystical Union]]
 		- Calling in General and External Calling
 		- Calling in General
