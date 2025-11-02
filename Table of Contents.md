@@ -198,6 +198,7 @@
 **Section V: The Doctrine of Applied Salvation**
 - Chapter VIX: The Operation of the Holy Spirit
 	- [[14.01 General and Special Operation of the Holy Spirit]]
+		- Various Interpretations of Salvation
 		- Ordo Salutis
 		- General and Special Operations of the Holy Spirit
 		- Grace
@@ -208,7 +209,8 @@
 		- Special and Common Grace
 		- How Common Grace Operates
 		- The Fruits of Common Grace
-	- [[14.03 The Mystical Union]]
+	- [[14.03 Special Grace]]
+	- [[14.04 The Mystical Union]]
 		- Calling in General and External Calling
 		- Calling in General
 		- External Calling
