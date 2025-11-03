@@ -204,6 +204,7 @@
 		- Grace
 	- [[14.02 The Doctrine of Grace - Common Grace]]
 		- The Doctrine of Grace
+		- Common, Special, and Prevenient Grace
 		- Origin of the Doctrine of Common Grace
 		- Names and Concept of Common Grace
 		- Common Grace and the Atoning Work of Christ
