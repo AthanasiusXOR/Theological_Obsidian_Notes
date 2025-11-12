@@ -227,7 +227,8 @@
 		- The Definition
 		- The Characteristics of Conversion
 		- The Necessity of Conversion
-	- [[15.02 Faith]]
+	- [[15.02 Calling]]
+	- [[15.03 Faith]]
 	- 	- Scriptural Terms for Faith
 		- Figurative Expressions Used to Describe the Activity of Faith
 		- The Doctrine of Faith in History
@@ -236,13 +237,13 @@
 		- Saving Faith
 		- Faith and Assurance
 		- Faith and Regeneration
-	- [[15.03 Justification]]
+	- [[15.04 Justification]]
 		 	- The Doctrine of Justification in History
 		- The Nature and Characteristics of Justification
 		- The Elements of Justification
 		- The Sphere in Which Justification Occurs
 		- The Ground of Justification
-	- [[15.04 Sanctification]]
+	- [[15.05 Sanctification]]
 		- Scriptural Terms for Sanctification and Holiness
 		- The Biblical Idea of Holiness and Sanctification
 		- The Nature of Sanctification
