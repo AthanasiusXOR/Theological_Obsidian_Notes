@@ -38,6 +38,8 @@ Horton, Michael. The Christian Faith: A Systematic Theology for Pilgrims On the 
 
 Macleod, Donald. The Person of Christ: Contours of Christian Theology. Downers Grove, IL: InterVarsity Press, 1998.
 
+Murray, John. *Redemption Accomplished and Applied*. William B. Eerdmans Publishing Company, Grand Rapids: MA, 1955.
+
 Owen, John. *Communion with God*. Banner of Truth Trust: Puritan Paperback, Carlisle, PA: 2024.
 
 Owen, John. *The Holy Spirit*. Banner of Truth Trust: Puritan Paperback, Carlisle, PA: 1998.
