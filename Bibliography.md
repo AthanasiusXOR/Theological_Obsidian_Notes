@@ -52,6 +52,8 @@ Poythress, Vern. Biblical Typology: How the Old Testament Points to Christ, His 
 
 Renihan, Samuel. The Mystery of Christ: His Covenant and His Kingdom. Cape Coral, FL: Founders Press, 2020.
 
+Saint Augustine. *City of God*. Translated by Henry Bettenson. London, England: Penguin Books, 2003. 
+
 Sir Basil the Great. On the Holy Spirit. Trans. Stephen Hildebrand. Yonkers, NY: Saint Vladimir's Seminary Press, 2011.
 
 Sproul, RC. Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith. Orlando, FL: Reformation Trust, 2019.
