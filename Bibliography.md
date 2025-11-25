@@ -64,6 +64,9 @@ Waters, Guy Prentiss. For the Mouth of the Lord has Spoken: The Doctrine of Scri
 
 Wellum, Stephen. Systematic Theology Volume I. Brentwood, TN: B&H Academic Publishing, 2024.
 
+## Podcasts
+
+Horton, Michael, Justin Holcomb, and Walter Strickland. "Compromise and Resistance: Theology's Battle with Liberalism in the 20th Century.' *White Horse Inn Podcast.* November 23, 2025. [[https://open.spotify.com/episode/18wycDN9iVz6YsOhreTYPz?si=21aefe48fed54786 | Spotify Link]]
 ## Sermons
 
 Breffle, Josh. *The Hidden Hand of God: Esther 2:19-3:15*. Sermon, October 12, 2025. Windsor Community Church
