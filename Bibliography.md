@@ -1,26 +1,26 @@
 ## Books
 
-Allison, Gregg. Sojourners and Strangers: The Doctrine of the Church. Wheaton, IL: Crossway: 2012.
+Allison, Gregg. *Foundations of Evangelical Theology: Sojourners and Strangers: The Doctrine of the Church*. Wheaton, IL: Crossway: 2012.
 
-Athanasius of Alexandria. On the Incarnation. ~373. Verbi Dei. London: A.R. Mowbray and Company: 1970.
+Athanasius of Alexandria. *On the Incarnation*. ~373. Verbi Dei. London: A.R. Mowbray and Company: 1970.
 
-Bavinck, Herman. Reformed Dogmatics: Abridged in One Volume. Grand Rapids, MI: Baker Academic, 2011.
+Bavinck, Herman. *Reformed Dogmatics: Abridged in One Volume*. Grand Rapids, MI: Baker Academic, 2011.
 
-Berkhof, Louis. Systematic Theology. Carlisle, PA: The Banner of Truth, 2021.
+Berkhof, Louis. *Systematic Theology*. Carlisle, PA: The Banner of Truth, 2021.
 
-Bray, Gerald. God Has Spoken: A History of Christian Theology. Wheaton, IL: Crossway, 2024.
+Bray, Gerald. *God Has Spoken: A History of Christian Theology*. Wheaton, IL: Crossway, 2024.
 
-Bray, Gerald. The Doctrine of God: Contours of Christian Theology. Downers Grove, IL: InterVarsity Press, 1993.
+Bray, Gerald. *Contours of Christian Theology: The Doctrine of God*. Downers Grove, IL: InterVarsity Press, 1993.
 
-Brewer, Thomas. editor. Table Talk Magazine: Stewardship. Sanford, FL: Ligonier Ministries, 2025.
+Brewer, Thomas. Editor. *Table Talk Magazine: Stewardship*. Sanford, FL: Ligonier Ministries, 2025.
 
-DeMarest, Bruce. *The Cross and Salvation: The Doctrine of Salvation*. Crossway, Wheaton, IL: 1997.
+DeMarest, Bruce. *Foundation of Evangelic Theology: The Cross and Salvation: The Doctrine of Salvation*. Crossway, Wheaton, IL: 1997.
 
-DeYoung, Kevin. Daily Doctrine. Wheaton, IL: Crossway, 2025.
+DeYoung, Kevin. *Daily Doctrine*. Wheaton, IL: Crossway, 2025.
 
-Ferguson, Sinclair. The Holy Spirit: Contours of Christian Theology. Downers Grove, IL: InterVarsity Press, 1996.
+Ferguson, Sinclair. *Contours of Christian Theology: The Holy Spirit*. Downers Grove, IL: InterVarsity Press, 1996.
 
-Fesko, The Trinity and the Covenant of Redemption, 2016: 245-52
+
 
 Gentry, Peter J, and Stephen J. Wellum. God's Kingdom through God's Covenant: A Concise Biblical Theology. Wheaton, IL: Crossway, 2015.
 
@@ -70,3 +70,6 @@ Horton, Michael, Justin Holcomb, and Walter Strickland. "Compromise and Resistan
 ## Sermons
 
 Breffle, Josh. *The Hidden Hand of God: Esther 2:19-3:15*. Sermon, October 12, 2025. Windsor Community Church
+
+
+### Wan
