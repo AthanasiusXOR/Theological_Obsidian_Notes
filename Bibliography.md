@@ -60,6 +60,8 @@ Vos, Geerhardus. *Biblical Theology*. Grand Rapids, MI: NA, 1948.
 
 Waters, Guy Prentiss. *For the Mouth of the Lord has Spoken: The Doctrine of Scripture*. Glasgow, UK: Bell and Bain, 2001.
 
+Wellum, Stephen. *The 5 Solas Series: Christ Alone: The Uniqueness of Jesus as Savior*, Grand Rapids, MI: Zondervan, 2017.
+
 Wellum, Stephen. *Systematic Theology Volume I*. Brentwood, TN: B&H Academic Publishing, 2024.
 
 ## Podcasts
