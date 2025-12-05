@@ -42,9 +42,11 @@ Owen, John. *Communion with God*. Banner of Truth Trust: Puritan Paperback, Carl
 
 Owen, John. *The Holy Spirit*. Banner of Truth Trust: Puritan Paperback, Carlisle, PA: 1998.
 
-Parsons, Burk, editor. *Table Talk Magazine: Death*. Sanford, FL: Ligonier Ministries, 2025.
+Parsons, Burke, editor. *Table Talk Magazine: Death*. Sanford, FL: Ligonier Ministries, 2025.
 
-Parsons, Burk, editor. *Table Talk Magazine: Bondage of the Will*. Sanford, FL: Ligonier Ministries, October 2025.
+Parsons, Burke, editor. *Table Talk Magazine: Bondage of the Will*. Sanford, FL: Ligonier Ministries, October 2025.
+
+Parsons, Burke, editor. *Table Talk Magazine: Roma, The East, and the Ancient Tradition of the Church*. Sanford, FL: Ligonier Ministries, October 2025.
 
 Poythress, Vern. *Biblical Typology: How the Old Testament Points to Christ, His Church, and the Consummation*. Wheaton, IL: Crossway, 2024.
 
