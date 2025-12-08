@@ -249,12 +249,14 @@
 		- The Nature of Sanctification
 		- The Characteristics of Sanctification
 		- The Doctrine of Sanctification in History- Chapter VXI: Perseverance of the Saints
+	- [[15.07 Glorification]]
+- Chapter XVI: The Perseverance of the Saints
 	- [[16.01 Perseverance of the Saints]]
 		- The Doctrine of the Perseverance of the Saints in History
 		- Statement of the Doctrine of Perseverance
 		- Proof for the Doctrine of Perseverance
 **Section VI: The Doctrine of the Church**
--  Chapter VXII: The Doctrine of the Church
+-  Chapter XVII: The Doctrine of the Church
 	- [[17.01 The Church]]
 		- Scriptural Names of the Church and the Doctrine of the Church in History
 		- Scriptural Names for the Church
