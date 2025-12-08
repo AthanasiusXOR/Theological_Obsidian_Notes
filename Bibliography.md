@@ -32,6 +32,8 @@ Hoekema, Anthony. *Created in God's Image*. Cambridge, UK: Wm B. Eerdmans Publis
 
 Horton, Michael. *God's Promises: Introducing Covenant Theology*. Grand Rapids, MI: Baker Academic, 2006.
 
+Horton, Michael. *Rediscovering the Holy Spirit: God's Perfecting Presence in Creation, Redemption, and Everyday Life.* Grand Rapids, MI: Zondervan, 2017.
+
 Horton, Michael. *The Christian Faith: A Systematic Theology for Pilgrims On the Way*. Grand Rapids, MI: Zondervan Publishing, 2011.
 
 Macleod, Donald. *Contours of Christian Theology: The Person of Christ.* Downers Grove, IL: InterVarsity Press, 1998.
