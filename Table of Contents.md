@@ -202,6 +202,7 @@
 		- Ordo Salutis
 		- General and Special Operations of the Holy Spirit
 		- Grace
+		- Parakletos
 	- [[14.02 The Doctrine of Grace - Common Grace]]
 		- The Doctrine of Grace
 		- Common, Special, and Prevenient Grace
