@@ -33,15 +33,15 @@
 		- Special Revelation
 	- [[2.03 The Doctrine of Scripture]]
 		- Inspiration of Scripture
-		- Generic Inspiration
-		- Prophetic Inspiration
-		- Apostolic Inspiration
+			- Generic Inspiration
+			- Prophetic Inspiration
+			- Apostolic Inspiration
 		- The Infallibility and Inerrancy of Scripture
 		- The Characteristics of Scripture
-		- The Authority of Scripture
-		- The Clarity of Scripture
-		- The Necessity of Scripture
-		- The Sufficiency of Scripture
+			- The Authority of Scripture
+			- The Clarity of Scripture
+			- The Necessity of Scripture
+			- The Sufficiency of Scripture
 	- [[2.04 The Principium Cognoscendi Internum]]
 - Chapter III: Hermeneutical Framework
 	- [[3.01 Hermeneutical Frameworks]]
