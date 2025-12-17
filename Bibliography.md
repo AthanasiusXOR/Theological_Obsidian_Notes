@@ -14,7 +14,7 @@ Bray, Gerald. *Contours of Christian Theology: The Doctrine of God*. Downers Gro
 
 Brewer, Thomas. Editor. *Table Talk Magazine: Stewardship*. Sanford, FL: Ligonier Ministries, 2025.
 
-Calvin, John. *Insitutes of the Christian Religion.* Translated byy Henry Beveridge. Hendrickson Publishers Marke
+Calvin, John. *Institutes of the Christian Religion.* Translated by Henry Beveridge. Hendrickson Publishers Marketing, Boston, MA: 2008
 
 DeMarest, Bruce. *Foundation of Evangelic Theology: The Cross and Salvation: The Doctrine of Salvation*. Crossway, Wheaton, IL: 1997.
 

@@ -1,12 +1,13 @@
 **Section I: Prolegomena | Introduction to Theology**
 - Chapter I: Preliminary Considerations
 	- [[1.01 Theology]]
-		- The History of Dogmatics
 		- What is theology?
 		- The Nature of Dogma
-		- Dogma Identified
-		- The Formal Characteristics of Dogma
+			- Dogma Identified
+			- The Formal Characteristics of Dogma
 		- The Necessity of Dogma
+		- The History of Dogmatics
+			- The Peroid 
 	- [[1.02 Systematic Theology]]
 		- The Idea of Dogmatic Theology
 		- The Relationship of Dogma to Dogmatics
