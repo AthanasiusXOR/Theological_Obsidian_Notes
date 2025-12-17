@@ -7,18 +7,22 @@
 			- The Formal Characteristics of Dogma
 		- The Necessity of Dogma
 		- The History of Dogmatics
-			- The Peroid 
+			- The Period of the Old Catholic Church
+			- The Period of the Middle Ages
+			- The Period of the Reformation
+			- The Catholic Agreement: A Brief History
 	- [[1.02 Systematic Theology]]
 		- The Idea of Dogmatic Theology
-		- The Relationship of Dogma to Dogmatics
+			- The Relationship of Dogma to Dogmatics
 		- The Object of Dogmatic Theology (Its Definition)
-		- The Division of Dogmatic Theology
 	- [[1.03 Science and Religion]]
+		- Science
+		- Religion
 	- [[1.04 Task, Method, and Distribution of Dogmatics]]
 		- Tasks of Dogmatics
 		- The Method of Dogmatics
 		- Distribution of Dogmatics
-		- How the Material is Secured and Treated
+			- How the Material is Secured and Treated
 		- Relations to Dogmatics
 - Chapter II: Doctrine of Scripture
 	- [[2.01 Principia in General]]
