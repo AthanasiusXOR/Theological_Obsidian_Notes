@@ -71,6 +71,7 @@
 - Chapter IV: The being of God
 	- [[4.01 The Existence of God]]
 	- [[4.02 The Knowability of God]]
+		- Knowledge versus Self-Knowledge
 	- [[4.03 The Names of God]]
 		- Old Testament Names and Their Meaning
 		- New Testament Names and Their Meaning
