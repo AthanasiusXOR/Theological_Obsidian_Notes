@@ -16,7 +16,7 @@ Brewer, Thomas. Editor. *Table Talk Magazine: Stewardship*. Sanford, FL: Ligonie
 
 Calvin, John. *Institutes of the Christian Religion.* Translated by Henry Beveridge. Hendrickson Publishers Marketing, Boston, MA: 2008.
 
-Clowney, Edmund P. *Contours of Christian Theology: The Church* 
+Clowney, Edmund P. *Contours of Christian Theology: The Church*. Downers Grove, IL: InterVarsity Press, 1995.
 
 DeMarest, Bruce. *Foundation of Evangelic Theology: The Cross and Salvation: The Doctrine of Salvation*. Crossway, Wheaton, IL: 1997.
 
