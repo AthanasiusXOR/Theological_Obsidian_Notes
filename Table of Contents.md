@@ -301,6 +301,7 @@
 		- The Doctrine of the Lord's Supper in History
 		- The Institute of the Lord's Supper
 		- The Lord's Supper as a Means of Grace
+	- [[18.04 Prayer]]
 **Section VII: The Doctrine of Last Things**
 - Chapter XIX
 	- [[19.01 Eschatology]]
